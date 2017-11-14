@@ -6,10 +6,7 @@ namespace newProject
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("fsdfsdfsdfdsfds");
-            Console.WriteLine();
-            Console.WriteLine("new staff");
+            Console.WriteLine("new last commit");
         }
     }
 }
